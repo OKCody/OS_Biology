@@ -1,3 +1,4 @@
+![8647693726_205e57c3e2_o.jpg]({{site.baseurl}}/8647693726_205e57c3e2_o.jpg)
 **Biology** is the science that studies life. What exactly is life? This may sound like a silly question with an obvious answer, but it is not easy to define life. For example, a branch of biology called virology studies viruses, which exhibit some of the characteristics of living entities but lack others. It turns out that although viruses can attack living organisms, cause diseases, and even reproduce, they do not meet the criteria that biologists use to define life.
 
 From its earliest beginnings, biology has wrestled with four questions: What are the shared properties that make something “alive”? How do those various living things function? When faced with the remarkable diversity of life, how do we organize the different kinds of organisms so that we can better understand them? And, finally—what biologists ultimately seek to understand—how did this diversity arise and how is it continuing? As new organisms are discovered every day, biologists continue to seek answers to these and other questions.
@@ -184,4 +185,3 @@ Researchers can approach biology from the smallest to the largest, and everythin
    [10]: https://cnx.org/resources/93301e98ea8bfe30c56f7dfe409287999a197f04/Figure_01_01_10.jpg
    [11]: https://cnx.org/resources/5dbee8a39dc5940f4698e2f0bf2b540c3e22f1ca/Figure_01_01_11.jpg
    [12]: https://cnx.org/resources/d821dc56d4236b2db3a74e95009767eb70de4554/Figure_01_01_12.jpg
-
